@@ -1,0 +1,166 @@
+[
+    {
+      "biod_metoh_ratio": "80/20",
+      "temperature_C": 25,
+      "water_percent": 20.0,
+      "phase": {
+        "E1": { "methanol": 0.18, "biodiesel": 0.00, "water": 0.82 },
+        "Rn": { "methanol": 0.15, "biodiesel": 0.85, "water": 0.00 }
+      }
+    },
+    {
+      "biod_metoh_ratio": "80/20",
+      "temperature_C": 25,
+      "water_percent": 40.0,
+      "phase": {
+        "E1": { "methanol": 0.14, "biodiesel": 0.00, "water": 0.86 },
+        "Rn": { "methanol": 0.09, "biodiesel": 0.90, "water": 0.01 }
+      }
+    },
+    {
+      "biod_metoh_ratio": "80/20",
+      "temperature_C": 25,
+      "water_percent": 60.0,
+      "phase": {
+        "E1": { "methanol": 0.08, "biodiesel": 0.01, "water": 0.92 },
+        "Rn": { "methanol": 0.06, "biodiesel": 0.94, "water": 0.00 }
+      }
+    },
+    {
+      "biod_metoh_ratio": "80/20",
+      "temperature_C": 30,
+      "water_percent": 20.0,
+      "phase": {
+        "E1": { "methanol": 0.20, "biodiesel": 0.00, "water": 0.80 },
+        "Rn": { "methanol": 0.12, "biodiesel": 0.86, "water": 0.02 }
+      }
+    },
+    {
+      "biod_metoh_ratio": "80/20",
+      "temperature_C": 30,
+      "water_percent": 40.0,
+      "phase": {
+        "E1": { "methanol": 0.15, "biodiesel": 0.01, "water": 0.84 },
+        "Rn": { "methanol": 0.07, "biodiesel": 0.93, "water": 0.00 }
+      }
+    },
+    {
+      "biod_metoh_ratio": "80/20",
+      "temperature_C": 30,
+      "water_percent": 60.0,
+      "phase": {
+        "E1": { "methanol": 0.10, "biodiesel": 0.01, "water": 0.89 },
+        "Rn": { "methanol": 0.02, "biodiesel": 0.97, "water": 0.01 }
+      }
+    },
+    {
+      "biod_metoh_ratio": "80/20",
+      "temperature_C": 40,
+      "water_percent": 20.0,
+      "phase": {
+        "E1": { "methanol": 0.26, "biodiesel": 0.01, "water": 0.72 },
+        "Rn": { "methanol": 0.10, "biodiesel": 0.88, "water": 0.02 }
+      }
+    },
+    {
+      "biod_metoh_ratio": "80/20",
+      "temperature_C": 40,
+      "water_percent": 40.0,
+      "phase": {
+        "E1": { "methanol": 0.17, "biodiesel": 0.01, "water": 0.82 },
+        "Rn": { "methanol": 0.06, "biodiesel": 0.94, "water": 0.00 }
+      }
+    },
+    {
+      "biod_metoh_ratio": "80/20",
+      "temperature_C": 40,
+      "water_percent": 60.0,
+      "phase": {
+        "E1": { "methanol": 0.08, "biodiesel": 0.01, "water": 0.91 },
+        "Rn": { "methanol": 0.05, "biodiesel": 0.95, "water": 0.00 }
+      }
+    },
+  
+    {
+      "biod_metoh_ratio": "70/30",
+      "temperature_C": 25,
+      "water_percent": 20.0,
+      "phase": {
+        "E1": { "methanol": 0.15, "biodiesel": 0.02, "water": 0.84 },
+        "Rn": { "methanol": 0.27, "biodiesel": 0.72, "water": 0.00 }
+      }
+    },
+    {
+      "biod_metoh_ratio": "70/30",
+      "temperature_C": 25,
+      "water_percent": 40.0,
+      "phase": {
+        "E1": { "methanol": 0.11, "biodiesel": 0.01, "water": 0.88 },
+        "Rn": { "methanol": 0.23, "biodiesel": 0.75, "water": 0.02 }
+      }
+    },
+    {
+      "biod_metoh_ratio": "70/30",
+      "temperature_C": 25,
+      "water_percent": 60.0,
+      "phase": {
+        "E1": { "methanol": 0.08, "biodiesel": 0.01, "water": 0.92 },
+        "Rn": { "methanol": 0.18, "biodiesel": 0.80, "water": 0.01 }
+      }
+    },
+    {
+      "biod_metoh_ratio": "70/30",
+      "temperature_C": 30,
+      "water_percent": 20.0,
+      "phase": {
+        "E1": { "methanol": 0.20, "biodiesel": 0.02, "water": 0.78 },
+        "Rn": { "methanol": 0.25, "biodiesel": 0.73, "water": 0.01 }
+      }
+    },
+    {
+      "biod_metoh_ratio": "70/30",
+      "temperature_C": 30,
+      "water_percent": 40.0,
+      "phase": {
+        "E1": { "methanol": 0.16, "biodiesel": 0.01, "water": 0.83 },
+        "Rn": { "methanol": 0.19, "biodiesel": 0.81, "water": 0.00 }
+      }
+    },
+    {
+      "biod_metoh_ratio": "70/30",
+      "temperature_C": 30,
+      "water_percent": 60.0,
+      "phase": {
+        "E1": { "methanol": 0.10, "biodiesel": 0.01, "water": 0.90 },
+        "Rn": { "methanol": 0.15, "biodiesel": 0.85, "water": 0.00 }
+      }
+    },
+    {
+      "biod_metoh_ratio": "70/30",
+      "temperature_C": 40,
+      "water_percent": 20.0,
+      "phase": {
+        "E1": { "methanol": 0.25, "biodiesel": 0.01, "water": 0.74 },
+        "Rn": { "methanol": 0.23, "biodiesel": 0.76, "water": 0.01 }
+      }
+    },
+    {
+      "biod_metoh_ratio": "70/30",
+      "temperature_C": 40,
+      "water_percent": 40.0,
+      "phase": {
+        "E1": { "methanol": 0.20, "biodiesel": 0.00, "water": 0.80 },
+        "Rn": { "methanol": 0.15, "biodiesel": 0.85, "water": 0.00 }
+      }
+    },
+    {
+      "biod_metoh_ratio": "70/30",
+      "temperature_C": 40,
+      "water_percent": 60.0,
+      "phase": {
+        "E1": { "methanol": 0.12, "biodiesel": 0.01, "water": 0.87 },
+        "Rn": { "methanol": 0.13, "biodiesel": 0.87, "water": 0.00 }
+      }
+    }
+  ]
+  

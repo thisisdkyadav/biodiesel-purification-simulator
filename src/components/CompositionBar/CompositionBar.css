@@ -1,0 +1,72 @@
+:root {
+  --methanol-color: #4caf50;
+  --biodiesel-color: #ff9800;
+  --water-color: #2196f3;
+}
+
+.composition-bar {
+  margin-top: 1rem;
+}
+
+.bar-container {
+  height: 30px;
+  display: flex;
+  width: 100%;
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 1rem;
+}
+
+.bar {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+  font-size: 0.85rem;
+  transition: width 0.5s ease;
+}
+
+.bar.methanol {
+  background-color: var(--methanol-color);
+}
+
+.bar.biodiesel {
+  background-color: var(--biodiesel-color);
+}
+
+.bar.water {
+  background-color: var(--water-color);
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.8rem;
+}
+
+.color-box {
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+}
+
+.color-box.methanol {
+  background-color: var(--methanol-color);
+}
+
+.color-box.biodiesel {
+  background-color: var(--biodiesel-color);
+}
+
+.color-box.water {
+  background-color: var(--water-color);
+}

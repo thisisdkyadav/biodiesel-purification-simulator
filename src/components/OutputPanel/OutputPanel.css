@@ -1,0 +1,32 @@
+.output-streams {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  gap: 2rem;
+}
+
+.output-stream {
+  background-color: #f9f9f9;
+  border-radius: var(--border-radius);
+  padding: 1.5rem;
+  border: 1px solid #e0e0e0;
+}
+
+.output-stream h3 {
+  color: var(--primary-color);
+  margin-bottom: 0.5rem;
+}
+
+.output-stream h4 {
+  color: #666;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+.no-output {
+  background-color: #f9f9f9;
+  border-radius: var(--border-radius);
+  padding: 2rem;
+  text-align: center;
+  border: 1px solid #e0e0e0;
+  grid-row: span 2;
+}
