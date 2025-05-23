@@ -23,9 +23,9 @@ dist-ssr
 *.sln
 *.sw?
 
-.firebaserc
+# .firebaserc
 firebase-debug.log
-firebase.json
+# firebase.json
 firebase-functions.log
 firebase-rules.json
 firebase.rules
